@@ -6,4 +6,4 @@ The novelty here is that the user can create a submatrix of consisting of the us
 
 This is a NLP project.
 
-<img src="Images/png?raw=true"/>
+<img src="Images/cooccurence.png?raw=true"/>
